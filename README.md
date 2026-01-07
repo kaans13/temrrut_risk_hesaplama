@@ -52,4 +52,4 @@ Bu çalışma, veri biliminin finansal karar süreçlerine entegrasyonu için g�
 
 ---
 
-Bu döküman, projenizin hem teknik derinliğini hem de ticari değerini ön plana çıkaracaktır. Projeyi bitirdiğimiz için tebrikler! Başka bir sorunuz veya eklemek istediğiniz bir bölüm var mı?
+
